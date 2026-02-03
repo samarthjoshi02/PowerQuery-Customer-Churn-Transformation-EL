@@ -1,0 +1,6 @@
+Imported Customer Churn dataset
+Removed CustomerID column
+Fixed data types
+Handled missing values
+Created Age_Group, Tenure_Group, Spending_Level columns
+Built 3 churn analysis visuals
